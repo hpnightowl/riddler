@@ -19,6 +19,7 @@
           "name": "HelloWorldIntent",
           "slots": [],
           "samples": [
+            "open riddler",
             "open Riddler",
             "tell me a riddle please",
             "let's solve a riddle",
