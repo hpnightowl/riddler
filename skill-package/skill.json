@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:eu-west-1:532472482635:function:0375bf72-e85e-459e-931f-9dffea874f65:Release_0"
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:532472482635:function:0375bf72-e85e-459e-931f-9dffea874f65:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:532472482635:function:0375bf72-e85e-459e-931f-9dffea874f65:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:532472482635:function:0375bf72-e85e-459e-931f-9dffea874f65:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-IN": {
+          "name": "Riddler"
+        }
+      }
+    }
+  }
+}
