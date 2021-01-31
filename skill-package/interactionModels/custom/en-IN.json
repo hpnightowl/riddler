@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "change me",
+      "invocationName": "Riddler",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -19,13 +19,19 @@
           "name": "HelloWorldIntent",
           "slots": [],
           "samples": [
-            "hello",
-            "how are you",
-            "say hi world",
-            "say hi",
-            "hi",
-            "say hello world",
-            "say hello"
+            "open Riddler",
+            "tell me a riddle please",
+            "let's solve a riddle",
+            "for riddle let's go",
+            "let's go for a riddle",
+            "is there a riddle for me today?",
+            "can you give me a riddle?",
+            "give me a riddle",
+            "today's riddle",
+            "i am bored lets solve a riddle",
+            "let's have fun with today's riddle",
+            "any riddle for today?",
+            "riddle is fun let's go"
           ]
         },
         {
